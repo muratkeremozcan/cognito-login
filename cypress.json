@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://customers.acceptance.extend.com",
+  "chromeWebSecurity": false
+}
